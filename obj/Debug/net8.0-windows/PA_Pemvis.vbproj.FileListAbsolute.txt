@@ -222,3 +222,4 @@ D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730
 D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pdb
 D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.genruntimeconfig.cache
 D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\ref\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.sourcelink.json

@@ -2,7 +2,7 @@
 
 Public Class notifikasi
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Me.Hide()
+        Me.Close()
         Menu_user.Show()
     End Sub
 
@@ -90,6 +90,6 @@ Public Class notifikasi
         Dim fDetailPemesanan As New Detail_pemesanan()
         fDetailPemesanan.ID_reservasi = ID_reservasi
         fDetailPemesanan.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 End Class

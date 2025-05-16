@@ -24,7 +24,7 @@ Partial Class tambah_barber
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(tambah_barber))
         Button1 = New Button()
-        TextBox3 = New TextBox()
+        txtNamaBarber = New TextBox()
         Label4 = New Label()
         txtNoTelp = New TextBox()
         Label5 = New Label()
@@ -48,15 +48,15 @@ Partial Class tambah_barber
         Button1.Text = "Konfirmasi"
         Button1.UseVisualStyleBackColor = False
         ' 
-        ' TextBox3
+        ' txtNamaBarber
         ' 
-        TextBox3.Font = New Font("Calibri", 11.25F)
-        TextBox3.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        TextBox3.Location = New Point(30, 212)
-        TextBox3.Margin = New Padding(3, 4, 3, 4)
-        TextBox3.Name = "TextBox3"
-        TextBox3.Size = New Size(372, 30)
-        TextBox3.TabIndex = 55
+        txtNamaBarber.Font = New Font("Calibri", 11.25F)
+        txtNamaBarber.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
+        txtNamaBarber.Location = New Point(30, 212)
+        txtNamaBarber.Margin = New Padding(3, 4, 3, 4)
+        txtNamaBarber.Name = "txtNamaBarber"
+        txtNamaBarber.Size = New Size(372, 30)
+        txtNamaBarber.TabIndex = 55
         ' 
         ' Label4
         ' 
@@ -155,7 +155,7 @@ Partial Class tambah_barber
         Controls.Add(TextBox2)
         Controls.Add(Label3)
         Controls.Add(Button1)
-        Controls.Add(TextBox3)
+        Controls.Add(txtNamaBarber)
         Controls.Add(Label4)
         Controls.Add(txtNoTelp)
         Controls.Add(Label5)
@@ -172,7 +172,7 @@ Partial Class tambah_barber
     End Sub
 
     Friend WithEvents Button1 As Button
-    Friend WithEvents TextBox3 As TextBox
+    Friend WithEvents txtNamaBarber As TextBox
     Friend WithEvents Label4 As Label
     Friend WithEvents txtNoTelp As TextBox
     Friend WithEvents Label5 As Label

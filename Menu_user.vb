@@ -3,7 +3,7 @@
 Public Class Menu_user
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Me.Hide()
+        Me.Close()
         notifikasi.Show()
     End Sub
 
@@ -87,7 +87,7 @@ Public Class Menu_user
         Dim fPilihBarber As New Pilih_barber()
         fPilihBarber.ID_cabang = ID_cabang
         fPilihBarber.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged

@@ -12,7 +12,7 @@ Public Class pilihEdit_CabangDanBarber
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Menu_admin.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub pilihEdit_CabangDanBarber_Load(sender As Object, e As EventArgs) Handles MyBase.Load

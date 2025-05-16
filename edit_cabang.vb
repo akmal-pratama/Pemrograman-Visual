@@ -34,7 +34,7 @@ Public Class edit_cabang
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Menu_admin.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub edit_cabang_Load(sender As Object, e As EventArgs) Handles MyBase.Load

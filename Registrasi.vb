@@ -7,6 +7,11 @@ Public Class Registrasi
             Exit Sub
         End If
 
+        If txtUsername.Text.ToLower() = "admin" Then
+            MessageBox.Show("Ini admin yang punya, tak boleh ygy", "Gagal Registrasi", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            Exit Sub
+        End If
+
         Try
             Koneksi()
 
@@ -18,7 +23,7 @@ Public Class Registrasi
 
             ' Jika sudah ada di pelanggan
             If countPelanggan > 0 Then
-                MessageBox.Show("Nama sudah terdaftar sebagai pelanggan.", "Gagal Registrasi", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+                MessageBox.Show("Nama sudah terdaftar gunakan nama lain.", "Gagal Registrasi", MessageBoxButtons.OK, MessageBoxIcon.Warning)
                 conn.Close()
                 Exit Sub
             End If
@@ -31,7 +36,7 @@ Public Class Registrasi
 
             ' Jika sudah ada di barber
             If countBarber > 0 Then
-                MessageBox.Show("Nama sudah digunakan ", "Gagal Registrasi", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+                MessageBox.Show("Nama sudah terdaftar gunakan nama lain", "Gagal Registrasi", MessageBoxButtons.OK, MessageBoxIcon.Warning)
                 conn.Close()
                 Exit Sub
             End If
@@ -45,9 +50,12 @@ Public Class Registrasi
 
             cmd.ExecuteNonQuery()
             MessageBox.Show("Registrasi berhasil!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            txtNoTelp.Clear()
+            txtUsername.Clear()
+            TextBox2.Clear()
 
             conn.Close()
-            Me.Hide()
+            Me.Close()
             Login.Show()
 
         Catch ex As Exception
@@ -56,7 +64,7 @@ Public Class Registrasi
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-        Me.Hide()
+        Me.Close()
         Login.Show()
     End Sub
 

@@ -4,7 +4,7 @@ Public Class Menu_barber
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         If MessageBox.Show("Apakah anda ingin logout", "Konfirmasi", MessageBoxButtons.YesNo) = DialogResult.Yes Then
             Login.Show()
-            Me.Hide()
+            Me.Close()
         End If
     End Sub
 
@@ -107,7 +107,7 @@ Public Class Menu_barber
         Dim fDetailPemesanan As New Detail_pemesanan_barber()
         fDetailPemesanan.ID_reservasi = ID_reservasi
         fDetailPemesanan.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub konfirmasiPemesanan(sender As Object, e As EventArgs)

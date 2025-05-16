@@ -6,7 +6,7 @@ Public Class Pilih_barber
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Menu_user.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub FormPilih_barber_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -135,7 +135,7 @@ Public Class Pilih_barber
         fpemesanan.cabangDipilih = Label2.Text
 
         fpemesanan.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
 

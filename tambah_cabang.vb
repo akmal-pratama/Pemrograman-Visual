@@ -3,7 +3,7 @@
 Public Class tambah_cabang
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Menu_admin.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -17,10 +17,10 @@ Public Class tambah_cabang
         End If
 
         Try
-            Koneksi() ' Panggil modul koneksi
-            Dim query As String = "INSERT INTO cabang (nama, alamat) VALUES (@nama, @alamat)"
+            Koneksi()
+            Dim query As String = "INSERT INTO cabang (nama_cabang, alamat) VALUES (@nama_cabang, @alamat)"
             cmd = New MySqlCommand(query, conn)
-            cmd.Parameters.AddWithValue("@nama", namaCabang)
+            cmd.Parameters.AddWithValue("@nama_cabang", namaCabang)
             cmd.Parameters.AddWithValue("@alamat", alamat)
             cmd.ExecuteNonQuery()
 
@@ -37,5 +37,7 @@ Public Class tambah_cabang
         End Try
     End Sub
 
+    Private Sub tambah_cabang_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+    End Sub
 End Class

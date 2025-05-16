@@ -37,9 +37,10 @@ Partial Class tambah_cabang
         ' 
         TextBox3.Font = New Font("Calibri", 11.25F)
         TextBox3.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        TextBox3.Location = New Point(26, 159)
+        TextBox3.Location = New Point(30, 212)
+        TextBox3.Margin = New Padding(3, 4, 3, 4)
         TextBox3.Name = "TextBox3"
-        TextBox3.Size = New Size(326, 26)
+        TextBox3.Size = New Size(372, 30)
         TextBox3.TabIndex = 47
         ' 
         ' Label4
@@ -48,9 +49,9 @@ Partial Class tambah_cabang
         Label4.BackColor = Color.Transparent
         Label4.Font = New Font("Calibri", 11.25F)
         Label4.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        Label4.Location = New Point(26, 141)
+        Label4.Location = New Point(30, 188)
         Label4.Name = "Label4"
-        Label4.Size = New Size(90, 18)
+        Label4.Size = New Size(114, 23)
         Label4.TabIndex = 46
         Label4.Text = "Nama cabang"
         ' 
@@ -58,9 +59,10 @@ Partial Class tambah_cabang
         ' 
         TextBox1.Font = New Font("Calibri", 11.25F)
         TextBox1.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        TextBox1.Location = New Point(26, 224)
+        TextBox1.Location = New Point(30, 299)
+        TextBox1.Margin = New Padding(3, 4, 3, 4)
         TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(326, 26)
+        TextBox1.Size = New Size(372, 30)
         TextBox1.TabIndex = 45
         ' 
         ' Label5
@@ -68,9 +70,9 @@ Partial Class tambah_cabang
         Label5.AutoSize = True
         Label5.Font = New Font("Calibri", 11.25F)
         Label5.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        Label5.Location = New Point(26, 206)
+        Label5.Location = New Point(30, 275)
         Label5.Name = "Label5"
-        Label5.Size = New Size(52, 18)
+        Label5.Size = New Size(64, 23)
         Label5.TabIndex = 44
         Label5.Text = "Alamat"
         ' 
@@ -79,9 +81,9 @@ Partial Class tambah_cabang
         Label2.AutoSize = True
         Label2.Font = New Font("Calibri", 20.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Label2.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        Label2.Location = New Point(78, 82)
+        Label2.Location = New Point(89, 109)
         Label2.Name = "Label2"
-        Label2.Size = New Size(214, 33)
+        Label2.Size = New Size(269, 41)
         Label2.TabIndex = 43
         Label2.Text = "TAMBAH CABANG"
         ' 
@@ -90,9 +92,10 @@ Partial Class tambah_cabang
         Button2.BackColor = Color.FromArgb(CByte(229), CByte(215), CByte(196))
         Button2.BackgroundImage = CType(resources.GetObject("Button2.BackgroundImage"), Image)
         Button2.BackgroundImageLayout = ImageLayout.Stretch
-        Button2.Location = New Point(11, 18)
+        Button2.Location = New Point(13, 24)
+        Button2.Margin = New Padding(3, 4, 3, 4)
         Button2.Name = "Button2"
-        Button2.Size = New Size(35, 35)
+        Button2.Size = New Size(40, 47)
         Button2.TabIndex = 42
         Button2.UseVisualStyleBackColor = False
         ' 
@@ -101,9 +104,9 @@ Partial Class tambah_cabang
         Label1.AutoSize = True
         Label1.Font = New Font("Palace Script MT", 48F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
         Label1.ForeColor = Color.FromArgb(CByte(76), CByte(61), CByte(25))
-        Label1.Location = New Point(62, 9)
+        Label1.Location = New Point(71, 12)
         Label1.Name = "Label1"
-        Label1.Size = New Size(242, 60)
+        Label1.Size = New Size(302, 74)
         Label1.TabIndex = 41
         Label1.Text = "BarberRand"
         ' 
@@ -112,19 +115,20 @@ Partial Class tambah_cabang
         Button1.BackColor = Color.FromArgb(CByte(53), CByte(64), CByte(36))
         Button1.Font = New Font("Calibri", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Button1.ForeColor = Color.FromArgb(CByte(229), CByte(215), CByte(196))
-        Button1.Location = New Point(26, 738)
+        Button1.Location = New Point(30, 984)
+        Button1.Margin = New Padding(3, 4, 3, 4)
         Button1.Name = "Button1"
-        Button1.Size = New Size(326, 38)
+        Button1.Size = New Size(373, 51)
         Button1.TabIndex = 48
         Button1.Text = "Konfirmasi"
         Button1.UseVisualStyleBackColor = False
         ' 
         ' tambah_cabang
         ' 
-        AutoScaleDimensions = New SizeF(7F, 15F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.FromArgb(CByte(229), CByte(215), CByte(196))
-        ClientSize = New Size(380, 788)
+        ClientSize = New Size(434, 1051)
         Controls.Add(Button1)
         Controls.Add(TextBox3)
         Controls.Add(Label4)
@@ -134,6 +138,7 @@ Partial Class tambah_cabang
         Controls.Add(Button2)
         Controls.Add(Label1)
         FormBorderStyle = FormBorderStyle.None
+        Margin = New Padding(3, 4, 3, 4)
         Name = "tambah_cabang"
         RightToLeft = RightToLeft.No
         StartPosition = FormStartPosition.CenterScreen

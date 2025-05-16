@@ -28,7 +28,7 @@ Public Class Login
             TextBox1.Clear()
             TextBox2.Clear()
             Menu_admin.Show()
-            Me.Hide()
+            Me.Close()
             Exit Sub
         End If
         rd.Close()
@@ -49,7 +49,7 @@ Public Class Login
             TextBox1.Clear()
             TextBox2.Clear()
             Menu_barber.Show()
-            Me.Hide()
+            Me.Close()
             Exit Sub
         End If
         rd.Close()
@@ -70,7 +70,7 @@ Public Class Login
             TextBox1.Clear()
             TextBox2.Clear()
             Menu_user.Show()
-            Me.Hide()
+            Me.Close()
             Exit Sub
         End If
         rd.Close()
@@ -81,6 +81,6 @@ Public Class Login
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         ' Registrasi (bisa arahkan ke form registrasi pelanggan)
         Registrasi.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 End Class

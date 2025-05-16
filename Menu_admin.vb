@@ -4,20 +4,19 @@ Public Class Menu_admin
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
         If MessageBox.Show("Apakah anda ingin logout", "Konfirmasi", MessageBoxButtons.YesNo) = DialogResult.Yes Then
             Login.Show()
-            Me.Hide()
+            Me.Close()
         End If
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         tambah_cabang.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub FormMenu_admin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Koneksi()
         LoadData()
     End Sub
-
 
     Private Sub LoadData(Optional keyword As String = "")
         Panel1.Controls.Clear()
@@ -87,7 +86,7 @@ Public Class Menu_admin
         Dim fManajemenBarber As New pilihEdit_CabangDanBarber()
         fManajemenBarber.ID_cabang = ID_cabang
         fManajemenBarber.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged

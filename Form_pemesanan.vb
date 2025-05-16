@@ -11,7 +11,7 @@ Public Class Form_pemesanan
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Menu_user.Show()
-        Me.Hide()
+        Me.Close()
     End Sub
 
     Private Sub Form_pemesanan_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -119,7 +119,7 @@ Public Class Form_pemesanan
             cmd.ExecuteNonQuery()
 
             berhasil.Show()
-            Me.Hide()
+            Me.Close()
 
         Catch ex As Exception
             MessageBox.Show("Gagal menyimpan reservasi: " & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
