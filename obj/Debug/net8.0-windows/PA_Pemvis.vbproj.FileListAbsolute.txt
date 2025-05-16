@@ -1,0 +1,224 @@
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Login.resources
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Resources.resources
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Welcome.resources
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.GenerateResource.cache
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfo.vb
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.exe
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.deps.json
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.runtimeconfig.json
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\refint\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.genruntimeconfig.cache
+D:\Visual Studio\repos\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\ref\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.AssemblyReference.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\refint\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.exe
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.deps.json
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.runtimeconfig.json
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.berhasil.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Detail_pemesanan.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_cabang.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Form_pemesanan.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Login.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_admin.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_user.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Resources.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.notifikasi.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pilihEdit_CabangDanBarber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Pilih_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.profil.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Registrasi.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_cabang.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Welcome.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.GenerateResource.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfoInputs.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfo.vb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.CoreCompileInputs.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.Up2Date
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.genruntimeconfig.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\ref\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.exe
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.deps.json
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.runtimeconfig.json
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.AssemblyReference.cache
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.berhasil.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Detail_pemesanan.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_barber.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_cabang.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Form_pemesanan.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Login.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_admin.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_barber.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_user.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Resources.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.notifikasi.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pilihEdit_CabangDanBarber.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Pilih_barber.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.profil.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Registrasi.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_barber.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_cabang.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Welcome.resources
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.GenerateResource.cache
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfo.vb
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.Up2Date
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\refint\PA_Pemvis.dll
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.genruntimeconfig.cache
+D:\Visual Studio\repos\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\ref\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.exe
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.deps.json
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.runtimeconfig.json
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.AssemblyReference.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.berhasil.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Detail_pemesanan.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_cabang.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Form_pemesanan.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Login.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_admin.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_user.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Resources.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.notifikasi.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pilihEdit_CabangDanBarber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Pilih_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.profil.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Registrasi.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_cabang.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Welcome.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.GenerateResource.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfoInputs.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfo.vb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.CoreCompileInputs.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.Up2Date
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\refint\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.genruntimeconfig.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\ref\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis-20250512T054106Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Detail_pemesanan_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.exe
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.deps.json
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.runtimeconfig.json
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.AssemblyReference.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.berhasil.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Detail_pemesanan.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Detail_pemesanan_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.edit_cabang.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Form_pemesanan.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Login.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_admin.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Menu_user.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Resources.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.notifikasi.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pilihEdit_CabangDanBarber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Pilih_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.profil.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Registrasi.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_barber.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.tambah_cabang.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.Welcome.resources
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.GenerateResource.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfoInputs.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.AssemblyInfo.vb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.CoreCompileInputs.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.vbproj.Up2Date
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\refint\PA_Pemvis.dll
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.pdb
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\PA_Pemvis.genruntimeconfig.cache
+D:\Perkuliahan\SEMESTER 4\PRAKTIKUM\Pemrograman Visual\PA_Pemvis-20250516T072730Z-1-001\PA_Pemvis\PA_Pemvis\obj\Debug\net8.0-windows\ref\PA_Pemvis.dll
